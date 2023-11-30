@@ -40,5 +40,5 @@ Click on the upload button to upload the code to the Arduino Uno.
 
 Test the System:
 Open the voice recognition app on your Android phone.
-Say the command "turn on" or "turn off".
+Say the command "Bulb on", "Bulb off" or "Fan on", "Fan off".
 The relay module should turn on or off depending on the voice command.
